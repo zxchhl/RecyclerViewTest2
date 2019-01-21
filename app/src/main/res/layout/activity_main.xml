@@ -20,7 +20,7 @@
             android:fontFamily="monospace"
             android:textColor="#ffffff"
             android:textSize="18sp"
-            tools:text="消息" />
+            android:text="消息" />
     </RelativeLayout>
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recycler_view"
